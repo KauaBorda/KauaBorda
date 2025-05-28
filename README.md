@@ -1,4 +1,4 @@
-## Olá! Eu sou o Kauã Borda dos Santos, estudante de Análise e Desenvolviento de Sistemas
+## Olá! Eu sou o Kauã Borda dos Santos, estudante de Análise e Desenvolvimento de Sistemas
 
 ### 🤖 Linguagens e Tecnologias
 
